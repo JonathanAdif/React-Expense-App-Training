@@ -26,7 +26,7 @@ function App() {
   ];
 
   return (
-    <div className="App">
+    <div>
       <h2>Lets get started!!!</h2>
       <ExpenseItem
         Title={expenses[0].title}
